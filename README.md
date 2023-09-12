@@ -1,6 +1,6 @@
 # Life Science RDM 2023 course
 
-[Click here for more information.](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-1d5429a6-0403-49cf-903c-239d6503cbc2)
+[Click here for more information.](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-1d5429a6-0403-49cf-903c-239d6503cbc2) <br>
 [Click here for registration.](https://nettskjema.no/a/353512#/page/1)
 
 ## Schedule
