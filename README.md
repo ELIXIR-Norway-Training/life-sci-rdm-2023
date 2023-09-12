@@ -4,6 +4,7 @@
 [Click here for registration.](https://nettskjema.no/a/353512#/page/1)
 
 ## Schedule
+The course is divided into six modules and span over six weeks.
 | Date | Time (CET) | Module | Instructor(s) |
 |:--:|:--:|:--:|:--:|
 | 06.10.2023 | 9-12 | Introduction to DMP and DSW | Nazeefa Fatima and Federico Bianchini |
@@ -12,8 +13,4 @@
 | 27.10.2023 | 00-00 | Ethical, Legal and Social Implications (ELSI) |
 | 03.11.2023 | 00-00 | Archive and Deposition repositories |
 | 10.11.2023 | 00-00 |Intellectual Property Rights & Licensing | |
-
-### Important Links
-Module 1
-- 
 
