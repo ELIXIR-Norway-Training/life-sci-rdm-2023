@@ -12,7 +12,7 @@ The course is divided into six modules and span over six weeks.
 | 06.10.2023 | 09-12 | Introduction to DMP and DSW | Nazeefa Fatima, Federico Bianchini |
 | 13.10.2023 | 00-00 | Data classification + information on national storage and analysis infrastructures | Illimar Hugo Rekand |
 | 20.10.2023 | 09-11 | Metadata standards, identifiers, vocabularies, and ontologies | Federico Bianchini, Espen Åberg |
-| 27.10.2023 | 09-10 | Ethical, Legal and Social Implications (ELSI) | Korbinian Bösl, Nazeefa Fatima |
+| 27.10.2023 | 09-10 | Ethical, Legal and Social Implications (ELSI), followed by seminar on [Ethical dilemmas in Open Data](https://uib.zoom.us/meeting/register/u5wscOGqpjsoGdGY7cuChY9fsI6zl2SryBUU) | Korbinian Bösl, Nazeefa Fatima |
 | 03.11.2023 | 00-00 | Archive and Deposition repositories | Illimar Hugo Rekand |
 | 10.11.2023 | 10-11 |Intellectual Property Rights & Licensing | Korbinian Bösl, Nazeefa Fatima |
 
