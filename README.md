@@ -16,3 +16,6 @@ The course is divided into six modules and span over six weeks.
 | 03.11.2023 | 00-00 | Archive and Deposition repositories | Illimar Hugo Rekand |
 | 10.11.2023 | 10-11 |Intellectual Property Rights & Licensing | Korbinian Bösl, Nazeefa Fatima |
 
+### Organisers
+ELIXIR Norway, and BioMedData
+
