@@ -3,7 +3,7 @@
 [Click here for more information.](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-1d5429a6-0403-49cf-903c-239d6503cbc2) <br>
 
 ### Registration is open until Tuesday 7 November, 12:00 CEST
-[Click here for registration.](https://nettskjema.no/a/353512#/page/1)
+[Click here for registration.](https://nettskjema.no/a/353512#/page/1). You can register for one, multiple, or all modules.
 
 ## Course Schedule
 The course is divided into six modules and span over six weeks.
