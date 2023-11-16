@@ -18,7 +18,7 @@ The course was divided into six modules and spanned over six weeks.
 | 10.11.2023 | 10-11 |Intellectual Property Rights & Licensing | Korbinian Bösl, Nazeefa Fatima |
 
 ### Material Availibility
-Slides from each module are available in this [repository](https://github.com/ELIXIR-Norway-Training/life-sci-rdm-2023/) and [Zenodo](https://zenodo.org/records/10075712), as well as [registered on TeSS](https://tess.elixir-europe.org/materials/life-science-rdm-2023-course).
+Slides from each module are available in this [repository](https://github.com/ELIXIR-Norway-Training/life-sci-rdm-2023/) and [Zenodo](https://zenodo.org/records/10075712), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/materials/life-science-rdm-2023-course).
 
 ### Organisers
 ELIXIR Norway, and BioMedData
